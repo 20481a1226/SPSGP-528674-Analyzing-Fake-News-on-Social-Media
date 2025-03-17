@@ -4,7 +4,7 @@ Domain:AIML
 
 Team deatils:-
 
-lead-member1: B.Siresha
+  member1: B.Siresha
 
   member2: Ch.Vaishnavi
   
